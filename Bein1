@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+http://tv.cloudcdn.me/live.ts?channelId=93748&uid=10223&deviceMac=00:1A:79:07:07:43
